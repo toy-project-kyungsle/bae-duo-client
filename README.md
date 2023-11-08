@@ -1,21 +1,3 @@
-## Next.js Boilerplate code
+## Squares에서 개발한 함께 배달해서 밥먹는 웹사이트
 
-> for squares jr.developer toy project
-
-## Getting Started
-
-```bash
-# package install
-npm i
-
-# local:3000
-npm run dev
-```
-
-## stack
-
-- `next.js`
-- `typescript`
-- `axios`
-- `react-query`
-- `emotion`
+(23년 11월 내 정리 예정)
