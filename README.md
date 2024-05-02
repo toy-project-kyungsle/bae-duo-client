@@ -32,7 +32,7 @@
 
 ### 4. 시연 영상
 
-https://youtu.be/yGo4M-S1JWw
+https://github.com/keinn51/bae-duo/assets/79993356/59c5be43-dcc1-410c-bf5b-ae597d70de9e
 
 ### 5. 배포 못한 이유와 짧은 회고
 
