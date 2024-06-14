@@ -2,7 +2,7 @@
 
 23년 1월부터 5월까지 5개월동안 열심히 만들었지만 사용하지 못한 애증의 사이트였습니다.
 
-저는 nestJS로 만든 서버 코드를 주로 만들었습니다. (https://github.com/keinn51/bae-duo-server)
+**⭐️저는 nestJS로 서버 코드를 거의 혼자서 만들었습니다. (https://github.com/toy-project-kyungsle/bae-duo-server) ⭐️**
 
 아쉽지만 프로젝트 정리라도 잘 해둡니다..
 
